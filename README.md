@@ -1,3 +1,11 @@
+**At the first request, you may need to wait for up to 2 minutes while the backend "wakes up". This is due to the spinning down of free instance during periods of inactivity**
+
+## [Frontend Deploy](https://data-fetching-ten.vercel.app/)
+
+## [Backend Deploy](https://data-fetching.onrender.com/)
+
+### task
+
 Implement client-server data fetch logic by following the next steps:
 
 1. Display an input (required, type number, from 0 to 100) and the "Start" button. Clicking the "Start" button you will disable it and start sending 1000 asynchronous HTTP requests to a server's "/api" endpoint in the following way:
